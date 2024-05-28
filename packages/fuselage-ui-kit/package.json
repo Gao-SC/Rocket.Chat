@@ -72,7 +72,7 @@
     "@rocket.chat/styled": "~0.31.25",
     "@rocket.chat/ui-avatar": "workspace:^",
     "@rocket.chat/ui-contexts": "workspace:^",
-    "@rocket.chat/ui-kit": "workspace:~",
+    "@rocket.chat/ui-kit": "0.2.0",
     "@rocket.chat/ui-video-conf": "workspace:^",
     "@storybook/addon-essentials": "~6.5.16",
     "@storybook/addons": "~6.5.16",
@@ -107,7 +107,7 @@
   },
   "dependencies": {
     "@rocket.chat/gazzodown": "workspace:^",
-    "@rocket.chat/ui-kit": "workspace:~",
+    "@rocket.chat/ui-kit": "0.2.0",
     "tslib": "^2.5.3"
   },
   "volta": {
