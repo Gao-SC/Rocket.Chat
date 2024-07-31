@@ -356,7 +356,7 @@
 		"image-size": "^1.0.2",
 		"imap": "^0.8.19",
 		"ip-range-check": "^0.2.0",
-		"is-svg": "^4.3.2",
+		"is-svg": "^4.4.0",
 		"isolated-vm": "4.4.2",
 		"jschardet": "^3.0.0",
 		"jsdom": "^16.7.0",
