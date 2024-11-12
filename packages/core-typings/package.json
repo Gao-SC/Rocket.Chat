@@ -25,8 +25,8 @@
 	"dependencies": {
 		"@rocket.chat/apps-engine": "^1.42.1",
 		"@rocket.chat/icons": "^0.34.0",
-		"@rocket.chat/message-parser": "workspace:^",
-		"@rocket.chat/ui-kit": "workspace:~"
+		"@rocket.chat/message-parser": "0.23.0",
+		"@rocket.chat/ui-kit": "0.2.0"
 	},
 	"volta": {
 		"extends": "../../package.json"
